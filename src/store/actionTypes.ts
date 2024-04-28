@@ -1,0 +1,3 @@
+export const GET_POKEMON = "GET_POKEMON";
+export const GET_POKEMON_TYPES = "GET_POKEMON_TYPES";
+export const GET_POKEMON_BY_TYPE = "GET_POKEMON_BY_TYPE";
